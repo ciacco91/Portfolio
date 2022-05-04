@@ -1,0 +1,23 @@
+
+    * {
+        font-family: 'Rubik Mono One', sans-serif;
+        font-weight: 300;
+    }
+
+    .transition-fade {
+        transition: 500ms;
+        opacity: 1;
+        transform: translateX(0);
+        transform-origin: left; 
+      }
+      
+      html.is-animating .transition-fade {
+        opacity: 1;
+        transform: translateX(100%) ;
+      }
+
+      html.is-leaving .transition-fade {
+          opacity: 0;
+      }
+
+      
