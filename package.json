@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "My portfolio site",
   "main": "porfolio.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,16 @@
   "author": "Stefano",
   "license": "ISC",
   "dependencies": {
+    "@emailjs/browser": "^3.6.2",
     "swup": "^2.0.14"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanoronchetti91/stefanoronchetti91.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanoronchetti91/stefanoronchetti91/issues"
+  },
+  "homepage": "https://github.com/stefanoronchetti91/stefanoronchetti91#readme"
 }

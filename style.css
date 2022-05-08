@@ -20,4 +20,27 @@
           opacity: 0;
       }
 
-      
+    #linkedin:hover{
+      opacity: 0.5;
+      transform: scale(1.2);
+    }
+
+    #instagram:hover{
+      opacity: 0.5;
+      transform: scale(1.2);
+    }
+
+    #twitter:hover{
+      opacity: 0.5;
+      transform: scale(1.2);
+    }
+
+    #github:hover{
+      opacity: 0.5;
+      transform: scale(1.2);
+    }
+
+    #faceHome:hover{
+      opacity: 0.5;
+      transform: scale(1.2);
+    }
